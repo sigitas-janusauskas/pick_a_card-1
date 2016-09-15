@@ -1,1 +1,1 @@
-наш первый публичный репозиторий
+Playing cards deck simulator
