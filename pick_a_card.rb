@@ -8,8 +8,12 @@ cards = []
 
 values.each do |value|
   suits.each do |suit|
-    cards << "#{value} of #{suit}"
+    cards << "[#{value}|#{suit}]" # [7|Clubs]
   end
+end
+
+2.times do
+  cards << '[Joker]'
 end
 
 cards.shuffle!
