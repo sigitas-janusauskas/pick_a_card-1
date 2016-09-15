@@ -8,7 +8,7 @@ cards = []
 
 values.each do |value|
   suits.each do |suit|
-    cards << "[#{value}|#{suit}]" # [7|Clubs]
+    cards << "#{value}#{suit[0].downcase}" # 7c
   end
 end
 
