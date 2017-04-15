@@ -1,0 +1,4 @@
+Style/AsciiComments: # Разрешить комментарии на русском языке
+  Enabled: false
+Style/SpaceInsideHashLiteralBraces: # Литералы хэшей без пробелов около скобок
+  EnforcedStyle: no_space
