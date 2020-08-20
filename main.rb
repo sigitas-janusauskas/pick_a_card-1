@@ -4,6 +4,7 @@
 require_relative 'lib/deck'
 
 # Выводим приветствие
+# apie progr pradzia
 puts 'Pick a Card. (c) goodprogrammer.ru'
 puts
 
