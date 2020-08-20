@@ -1,4 +1,5 @@
 # encoding: utf-8
+# tai programa apie kortas
 
 # Подключаем класс колоды
 require_relative 'lib/deck'
