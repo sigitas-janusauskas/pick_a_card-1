@@ -7,7 +7,7 @@ require_relative 'lib/deck'
 # Выводим приветствие
 # apie progr pradzia
 puts 'Pick a Card. (c) goodprogrammer.ru'
-puts
+puts 'kodas su OOP'
 
 # Создаем новую колоду и сразу её перемешиваем
 deck = Deck.new.shuffle
